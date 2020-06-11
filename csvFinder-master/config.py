@@ -1,0 +1,5 @@
+channal_secret = "3aa9e530f61de687ce411c05c74fcb43" #channal Secret
+
+#channal Token
+channal_access_token = "J9m5svNUx2Yjf00ZHE0Utz+FxlBCmuN5oz3anYgmpfrzDVXICnr9pbCiTGRedBn5gqR+V8SR5DS9rqEEMfhRaEhlYqgM7hbaCuVkdVCrIQIxNV6Cz7h2uQzbTpjpznK0OtAB3Z6OTNU4wnfN4Xfl3gdB04t89/1O/w1cDnyilFU="
+
